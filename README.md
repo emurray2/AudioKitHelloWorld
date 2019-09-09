@@ -23,8 +23,8 @@ Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.fra
 ## Here are a few common ones:
 ### Swift Compiler Error
 #### No such module 'AudioKit'
-##### 1. Make sure the required AudioKit Frameworks listed above are inside of your project and your project source folder.
+##### 1. Make sure the required AudioKit Frameworks listed above are inside of your project editor and your project source folder.
 
 Project Editor            |  Source Folder
 :-------------------------:|:-------------------------:
-<img src="images/inside_project.png" alt="Inside Project" style="width:50%">  |  <img src="images/inside_project_folder.png" alt="Inside Project Folder" style="width:50%">
+<img src="images/inside_project.png" alt="Inside Project" style="width:25%">  |  <img src="images/inside_project_folder.png" alt="Inside Project Folder" style="width:25%">
