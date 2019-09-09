@@ -44,5 +44,11 @@ Project Editor            |  Source Folder
 <img src="images/other-linker-flags.png" alt="Other Linker Flags" style="width:25%">
 
 ##### 2. Enter the following string: "-lc++"
+
+<img src="images/linkerflag.png" alt="Linker Flag" style="width:25%">
+
 ##### 3. Press enter/return again
+
 ##### 4. It should look like this:
+
+<img src="images/newflags.png" alt="New Flags" style="width:25%">
