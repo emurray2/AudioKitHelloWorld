@@ -34,3 +34,10 @@ Project Editor            |  Source Folder
 
 ##### 3. Delete this line and retype it. Then, press and release the (Command + Shift + K) keys at the same time to clean your project.
 <img src="images/retype.png" alt="Clean Project" style="width:25%">
+### Error
+#### Undefined symbol
+##### Don't forget to include the C++ linker flag! We need to compile some C++ code which is in the AudioKit frameworks!
+##### 1. Under the "Linking" section, click on "Other Linker Flags" and press enter/return
+##### 2. Enter the following string: "-lc++"
+##### 3. Press enter/return again
+##### 4. It should look like this:
