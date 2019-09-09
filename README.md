@@ -33,4 +33,4 @@ Project Editor            |  Source Folder
 <img src="images/linked.png" alt="Linked" style="width:25%">
 
 ##### 2. Delete this line and retype it. Then, press and release the (Command + Shift + K) keys at the same time to clean your project.
-<img src="images/retype.png" alt="Clean" style="width:25%">
+<img src="images/retype.png" alt="Clean Project" style="width:25%">
