@@ -27,4 +27,4 @@ Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.fra
 
 Project Editor            |  Source Folder
 :-------------------------:|:-------------------------:
-<img src="images/inside_project.png" alt="Inside Project" style="width:25%">  |  <img src="images/inside_project_folder.png" alt="Inside Project Folder" style="width:25%">
+![](<img src="images/inside_project.png" alt="Inside Project" style="width:25%">)  |  <img src="images/inside_project_folder.png" alt="Inside Project Folder" style="width:25%">
