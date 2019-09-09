@@ -25,5 +25,11 @@ Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.fra
 #### No such module 'AudioKit'
 ##### 1. Make sure the required AudioKit Frameworks listed above are inside of your project and your project source folder.
 
-<img src="images/inside_project.png" height="500">
-<img src="images/inside_project_folder.png" height="300">
+<div class="row">
+  <div class="column">
+    <img src="images/inside_project.png" alt="Inside Project" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/inside_project_folder.png" alt="Inside Project Folder" style="width:100%">
+  </div>
+</div>
