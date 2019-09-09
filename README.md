@@ -26,6 +26,7 @@ Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.fra
 ##### 1. Make sure the required AudioKit Frameworks listed above are inside of your project and your project source folder.
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
    * {
   box-sizing: border-box;
