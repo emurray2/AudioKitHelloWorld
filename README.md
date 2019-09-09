@@ -53,7 +53,13 @@ Project Editor            |  Source Folder
 
 <img src="images/newflags.png" alt="New Flags" style="width:25%">
 
-##### 5. Clean your project (Shift + Command + K) and try running it again
-
+##### 5. Clean your project (Shift + Command + K) and try running it again. It should work this time.
 
 <img src="images/buildsuccess.png" alt="Build Success" style="width:25%">
+
+### Swift Compiler Error
+#### Compiling for iOS 8.0, but module 'AudioKit' has a minimum deployment target of iOS 9.0: /Users/evanmurray/Library/Autosave Information/HelloWorldAudiokit/AudioKit.framework/Modules/AudioKit.swiftmodule/x86_64.swiftmodule
+
+##### 1. Set the deployment target to the latest iOS version possible
+
+<img src="images/latestios.png" alt="Latest Version" style="width:25%">
