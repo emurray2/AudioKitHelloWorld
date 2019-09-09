@@ -26,4 +26,4 @@ Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.fra
 ##### 1. Make sure the required AudioKit Frameworks listed above are inside of your project and your project source folder.
 
 <img src="images/inside_project.png" height="500">
-<img src="images/inside_project_folder.png" height="100">
+<img src="images/inside_project_folder.png" height="500">
