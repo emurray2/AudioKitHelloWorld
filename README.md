@@ -58,7 +58,7 @@ Project Editor            |  Source Folder
 <img src="images/buildsuccess.png" alt="Build Success" style="width:25%">
 
 ### Swift Compiler Error
-#### Compiling for iOS 8.0, but module 'AudioKit' has a minimum deployment target of iOS 9.0: /Users/evanmurray/Library/Autosave Information/HelloWorldAudiokit/AudioKit.framework/Modules/AudioKit.swiftmodule/x86_64.swiftmodule
+#### Compiling for iOS x.x, but module 'AudioKit' has a minimum deployment target of iOS x.x: /Users/username/Library/Autosave Information/HelloWorldAudiokit/AudioKit.framework/Modules/AudioKit.swiftmodule/x86_64.swiftmodule
 
 ##### 1. Set the deployment target to the latest iOS version possible
 
