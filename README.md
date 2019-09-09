@@ -40,6 +40,9 @@ Project Editor            |  Source Folder
 #### Undefined symbol:
 ##### Don't forget to include the C++ linker flag! We need to compile some C++ code which is in the AudioKit frameworks!
 ##### 1. Under the "Linking" section, click on "Other Linker Flags" and press enter/return
+
+<img src="images/other-linker-flags.png" alt="Other Linker Flags" style="width:25%">
+
 ##### 2. Enter the following string: "-lc++"
 ##### 3. Press enter/return again
 ##### 4. It should look like this:
