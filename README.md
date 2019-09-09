@@ -52,3 +52,8 @@ Project Editor            |  Source Folder
 ##### 4. It should look like this:
 
 <img src="images/newflags.png" alt="New Flags" style="width:25%">
+
+##### 5. Clean your project (Shift + Command + K) and try running it again
+
+
+<img src="images/buildsuccess.png" alt="Build Success" style="width:25%">
