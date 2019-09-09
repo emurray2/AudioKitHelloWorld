@@ -63,3 +63,13 @@ Project Editor            |  Source Folder
 ##### 1. Set the deployment target to the latest iOS version possible
 
 <img src="images/latestios.png" alt="Latest Version" style="width:25%">
+
+### Swift Compiler Error
+#### Swift x.x module cannot be used with Swift x.x (earlier version)
+##### 1. Make sure you have the latest version of Xcode installed. If not, either download it or update it if you already have it.
+##### 2. Download the latest version of the AudioKit frameworks to use in your project [here](https://audiokit.io/downloads)
+
+## Other questions?
+### Please feel free to reach out to me or someone else in the AudioKit community, and we will do our best to help!
+### Keep your eye out for the next tutorial!
+
