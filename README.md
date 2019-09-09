@@ -27,22 +27,18 @@ Once the folder is open, copy the files "AudioKit.framework" and "AudioKitUI.fra
 <html>
 <head>
   <style>
-    * {
-    box-sizing: border-box;
-    }
+   * {
+  box-sizing: border-box;
+}
 
-    .column {
-     float: left;
-     width: 33.33%;
-     padding: 5px;
-     }
+.row {
+  display: flex;
+}
 
-     /* Clearfix (clear floats) */
-     .row::after {
-     content: "";
-     clear: both;
-     display: table;
-     }
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
   </style>
 </head>
 <body>
