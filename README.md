@@ -10,7 +10,7 @@ Welcome! If you are watching my AudioKit Basic Oscillator Tutorial on YouTube, y
 ### This github repository contains only the code for the project, not the full project itself.
 
 ### If you are interested in downloading the full project, please download the release package and unarchive it:
-[Download Release]()
+[Download Release](https://github.com/emurray2/AudioKitHelloWorld/releases/tag/1.0)
 
 ## Needed Frameworks to Compile This Project in Xcode
 Go to the official Audio Kit Website - [audiokit.io/downloads](https://audiokit.io/downloads)
